@@ -1,6 +1,6 @@
 <h1> Hello, guys and any others strangers! I do not know, what you are doing here, but if you are here, then enjoy my repos ❤️</h1>
 
-So, some "confidentional" information here: 21 years old, professional time-wasting layer, who enjoys programming named. If you want hire/contact me - pm <a href="mailto:ilink00@mail.ru">here</a>
+So, some "confidentional" information here: 21 years old, professional time-wasting <a href="https://steamcommunity.com/id/odasszz">player</a>, who enjoys programming. If you want hire/contact me - pm <a href="mailto:ilink00@mail.ru">here</a>
 
 I'm in love with the <b>Python 🐍</b>
 
