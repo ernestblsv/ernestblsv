@@ -2,7 +2,7 @@
 
 So, some "confidentional" information here: 21 years old, professional time-wasting layer, who enjoys programming named. If you want hire/contact me - pm here 👉🏻 ilink00@mail.ru
 
-I'm in love with the Python 🐍
+I'm in love with the <b>Python 🐍</b>
 
 But also I'm looking forward to learn JavaScript, C#, Java, C++ 💻
 
